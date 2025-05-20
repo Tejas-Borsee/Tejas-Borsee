@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello Everyone !
+I Am Tejas Valmik Borse, Full Stack Java Developer
 <!--
 **Tejas-Borsee/Tejas-Borsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
