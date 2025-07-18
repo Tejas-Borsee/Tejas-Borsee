@@ -66,10 +66,11 @@ I’m a Software Enginner,👨🏻‍💻
 <table >
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TejasBorse&theme=light&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%" />
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=TejasBorse&theme=light&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%" /> -->
+      ![](https://github-readme-stats.vercel.app/api?username=tejasborse&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasborse&theme=dark&show_icons=true&count_private=true" align="center" style="width: 100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasborse&theme=light&show_icons=true&count_private=true" align="center" style="width: 100%" />
     </td> 
   </tr>
   
