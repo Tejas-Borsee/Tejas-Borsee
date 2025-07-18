@@ -52,15 +52,15 @@ I’m a Software Enginner,👨🏻‍💻
 ## Languages and Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,spring,mysql,postgres,react,bootstrap,bitbucket,postman,git,docker" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,Java,html,css,js,Spring,Spring Boot,Multitenancy,Liquibase,mysql,postgres,react,bootstrap,figma,canva,postman,git,Bitbucket" />
     [![ableton](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   </a>
-</p>
+</p> -->
 
 ## 📊 GitHub Stats:
 <table >
