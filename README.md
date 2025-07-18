@@ -53,7 +53,7 @@ I’m a Software Enginner,👨🏻‍💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,Java,html,css,js,Spring,Spring Boot,Multitenancy,Liquibase,mysql,postgres,react,bootstrap,figma,canva,postman,git,Bitbucket" />
-    [![c,Java,html,css,js,Spring,Spring Boot,Multitenancy,Liquibase,mysql,postgres,react,bootstrap,figma,canva,postman,git,Bitbucket](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    [![ableton](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   </a>
 </p>
 
