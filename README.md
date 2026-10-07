@@ -1,85 +1,12 @@
-## Hey 👋, I'm Tejas !!  
+Tejas Borse
 
+<hr>
 
-<a href="https://in.linkedin.com/in/tejas-borse" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/NayanSayaji" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+Software Engineer | Backend & Full Stack Systems
+<br>
+Hey there! I'm Software Engineer with 2+ years of experience in building and scaling distributed backend systems and full-stack applications. I primarily work across the Java, SpringBoot ecosystem, with a strong focus on backend architecture, distributed systems, and performance-driven design.
 
+I have hands-on experience designing and maintaining production-grade services, working with microservices architectures, and contributing to modular monorepo-based systems.
 
+<hr>
 
-
-### Glad to see you here!  
-I’m a Software Enginner,👨🏻‍💻
-<br>Full Stack Engineer Works on Java.🌟
-<br>Computer science enthusiast....
-<br>Loves to explore technologies.💥⚙
-<br>Love problem solving and Practicing it.. 💻
-<br>I have proficiency in Java, Spring Boot & Reactjs👨🏻‍💻
-
-## Rapidfire  
-<table><tr><td valign="top" width="60%">
-
-- 🔭 I’m currently working on Spring Boot....  
-
-
-- 🌱 I’m learning FullStack with integrating Spring Boot, and React...  
-
-
-- 🎗 I’m Practicing Data Structures and Algorithms ...  
-
-
-- ❓ Ask me about Java and Python , Spring Boot Development !!!✨
-
-
-- ⚡ Fun fact: I keep night shift swithed on at all times. 😁   
-
-
-</td><td valign="top" width="40%">
-
-<div align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/5515ce85e4b0ac8577a8b5ed/1590790768257-FU8CSKGCCWPZI1ZS9HJX/hello.gif?format=1500w" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,spring,mysql,postgres,react,bootstrap,bitbucket,postman,git,docker" />
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,Java,html,css,js,Spring,Spring Boot,Multitenancy,Liquibase,mysql,postgres,react,bootstrap,figma,canva,postman,git,Bitbucket" />
-    [![ableton](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-  </a>
-</p> -->
-
-## 📊 GitHub Stats:
-<table >
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tejasborse&theme=light&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%" />
-<!--       ![](https://github-readme-stats.vercel.app/api?username=tejasborse&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasborse&theme=light&show_icons=true&count_private=true" align="center" style="width: 100%" />
-    </td> 
-  </tr>
-  
- <!-- <tr><td >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayansayaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width:100%; heigth:30%" ">
-  </td></tr> -->
-  
-</table>  
-
----
-
-![Profile views counter](https://komarev.com/ghpvc/?username=TejasBorse&&style=flat-square)  
